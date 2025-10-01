@@ -1,2 +1,2 @@
-# Proje-devlerim
+# Proje-ödevlerim
 HTML CSS JS SİTELERİM
